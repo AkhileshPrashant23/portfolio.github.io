@@ -1,0 +1,48 @@
+body {
+    background-color:  #C4DDFF;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin-top:0px;
+    font-family: 'Sacramento', cursive;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.top-container {
+    background-color: #7FB5FF;
+    padding: 80px;
+    padding-bottom:0px;
+    
+    
+}
+
+.middle-container {
+   
+    
+}
+
+.bottom-container {
+    
+    
+}
+
+.bottom-cld{
+    position: absolute;
+    left: 50px
+}
+
+.top-cld{
+    position: absolute;
+    right: 100px;
+    top: 50px;  
+}
+
+
